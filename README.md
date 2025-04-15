@@ -9,7 +9,7 @@ Hoje trabalho como desenvolvedor júnior na Financial Move, atuando no desenvolv
 Tenho interesse em aprofundar meus conhecimentos como desenvolvedor backend e estou sempre em busca de desafios que me permitam evoluir tecnicamente e contribuir com soluções que gerem impacto real.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/mhscabia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     <a href="https://github.com/mhscabia?tab=followers">
         <img 
             alt="Seguidores" 
